@@ -1,0 +1,51 @@
+Next ( 0): 0
+Next ( 1): 1 BuzzFizz
+Next ( 2): 1 BuzzFizz
+Next ( 3): 2 BuzzFizz
+Next ( 4): 3 BuzzFizz
+Next ( 5): 5 Fizz
+Next ( 6): 8
+Next ( 7): 13 BuzzFizz
+Next ( 8): 21 Buzz
+Next ( 9): 34
+Next (10): 55 Fizz
+Next (11): 89 BuzzFizz
+Next (12): 144
+Next (13): 233 BuzzFizz
+Next (14): 377
+Next (15): 610
+Next (16): 987 Buzz
+Next (17): 1597 BuzzFizz
+Next (18): 2584
+Next (19): 4181
+Next (20): 6765 Buzz Fizz FizzBuzz
+Next (21): 10946
+Next (22): 17711
+Next (23): 28657 BuzzFizz
+Next (24): 46368
+Next (25): 75025 Fizz
+Next (26): 121393
+Next (27): 196418
+Next (28): 317811 Buzz
+Next (29): 514229 BuzzFizz
+Next (30): 832040
+Next (31): 1346269
+Next (32): 2178309 Buzz
+Next (33): 3524578
+Next (34): 5702887
+Next (35): 9227465 Fizz
+Next (36): 14930352
+Next (37): 24157817
+Next (38): 39088169
+Next (39): 63245986
+Next (40): 102334155 Buzz Fizz FizzBuzz
+Next (41): 165580141
+Next (42): 267914296
+Next (43): 433494437 BuzzFizz
+Next (44): 701408733 Buzz
+Next (45): 1134903170
+Next (46): 1836311903
+Next (47): 2971215073 BuzzFizz
+Next (48): 512559680
+Next (49): 3483774753 Buzz
+Next (50): 3996334433
